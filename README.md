@@ -1,6 +1,6 @@
 # Wacecon-Telcom-Analysis
 
-📊 𝗪𝗮𝘃𝗲𝗰𝗼𝗻 𝗧𝗲𝗹𝗲𝗰𝗼𝗺 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀 🚀
+📊 𝗪𝗮𝘃𝗲𝗰𝗼𝗻 𝗧𝗲𝗹𝗲𝗰𝗼𝗺 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀 🚀   Live Dashboard :- https://rb.gy/3cldn6
 
 The rollout of 5G was expected to be a milestone, but how did it actually impact revenue and customer behavior? Our latest analysis uncovers some surprising trends:
 
