@@ -2,7 +2,7 @@
 
 📊 𝗪𝗮𝘃𝗲𝗰𝗼𝗻 𝗧𝗲𝗹𝗲𝗰𝗼𝗺 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀 🚀   Live Dashboard :- https://rb.gy/3cldn6
 
-The rollout of 5G was expected to be a milestone, but how did it actually impact revenue and customer behavior? Our latest analysis uncovers some surprising trends:
+The rollout of 5G was expected to be a milestone, but how did it actually impact revenue and customer behavior? My latest analysis uncovers some surprising trends:
 
 📉 𝗢𝘃𝗲𝗿𝗮𝗹𝗹 𝗥𝗲𝘃𝗲𝗻𝘂𝗲 𝗗𝗲𝗰𝗹𝗶𝗻𝗲: 
 A slight dip of 𝟬.𝟱𝟬% post-5G launch, with major drops in Delhi (-𝟮.𝟴𝟯%), Chennai (-𝟮.𝟱𝟴%), and Ahmedabad (-𝟮.𝟬𝟮%).
